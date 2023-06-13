@@ -1,5 +1,5 @@
  import React from 'react'
- import Logos from '../../../assets/images/animation.mp4'
+ import Logos from '../../../assets/images/home.gif'
 import './index.scss'
 
  function Logo() {
@@ -7,7 +7,7 @@ import './index.scss'
      <div>
       
         
-          <img src='https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif'/>
+          <img src="https://i.pinimg.com/originals/ba/9c/a1/ba9ca1e81caf80f5540516e4e20df473.gif" />
         
      </div>
    )
