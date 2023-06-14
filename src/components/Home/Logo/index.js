@@ -4,7 +4,7 @@ import './index.scss'
 
  function Logo() {
    return (
-     <div>
+     <div className="logo">
       
         
           <img src="https://i.pinimg.com/originals/ba/9c/a1/ba9ca1e81caf80f5540516e4e20df473.gif" />

@@ -8,7 +8,7 @@ function Contact() {
 
 const hlo=useRef()
 
-  return (
+  return ( 
     <>
       <div  className='container contact-page'>
         <div className='text-zone'>

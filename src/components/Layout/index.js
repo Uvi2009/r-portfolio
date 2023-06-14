@@ -2,7 +2,7 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import './index.scss'
 import Sidebar from '../Sidebar'
-function Layout() {
+function Layout() { 
   return (
     <>
     <div className="App">

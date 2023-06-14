@@ -152,3 +152,27 @@ textarea{
     opacity: 0;
     animation: backInRight 1s 1.2s forwards;
 }
+@media only screen and (max-width:600px) 
+{
+    .contact-page{
+        width: 100%;
+
+        .text-zone{
+            width: 100%;
+            left: 17px;
+            h1{
+                font-size: 30px;
+                &::after,&::before{
+                    display: none;
+                }
+            }
+            .text,.contact-form{
+                width: 90%;
+            }
+        }
+
+        .info-map,.map-wrap{
+            display: none;
+        }
+    }    
+}

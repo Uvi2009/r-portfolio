@@ -25,8 +25,8 @@ function Home() {
     return x
   },[])
 
- 
   
+   
   return (
     <>
     <div className='container home-page'>
@@ -41,6 +41,7 @@ function Home() {
             <h2>
               I'm a     
              <span className='auto-text'>
+               Student
              {// <Typed strings={[' Student',' FrontEnd Deveolper',' JavaScript Developer' ,' Software Devolper']} typeSpeed={40} backSpeed={40} loop={true}/>
               }</span>
               
@@ -54,7 +55,7 @@ function Home() {
     <Loader type="pacman"/>
     </>
 
-  )
+  ) 
 }
-
+ 
 export default Home 

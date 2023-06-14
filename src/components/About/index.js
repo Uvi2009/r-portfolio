@@ -4,7 +4,7 @@ import AnimatedLetters from './../AnimatedLetters/index';
 import Loader from 'react-loaders'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-  faAngular,
+  faAngular, 
   faReact,
   faGitAlt,
  
@@ -32,7 +32,7 @@ function About() {
     <p>
     In my portfolio, you'll find a collection of projects that exemplify my skills and showcase my ability to transform ideas into functional and visually captivating websites and applications. I invite you to explore and discover the creative world I've crafted. Thank you for visiting my portfolio, and I look forward to the opportunity of collaborating with you to build remarkable digital experiences together.
     </p>
-    </div>
+    </div>  
 
     <div className='stage-cube-cont'>
         <div className='cubespinner'>

@@ -6,7 +6,7 @@ import {faHome,
     faEnvelope,
     faUser}  from "@fortawesome/free-solid-svg-icons"
 
-import {
+import { 
     faLinkedin,
     faGithub,
     faInstagram,

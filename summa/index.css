@@ -1,0 +1,18 @@
+.name1{
+    width: 100px;
+    margin-left: 100px;
+    height: 100px;
+    background-color: red;
+}
+.name2{
+    margin-left: 00px;
+
+    width: 100px;
+    height: 100px;
+    background-color: #141414;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+}
